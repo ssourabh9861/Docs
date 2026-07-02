@@ -6,7 +6,7 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 |-----------|--------|-------|
 | README.md | ✅ | Roadmap, index, justified additions |
 | 00-resume-arsenal | ✅ | 4 project arsenals + cross-cutting attacks + gap analysis. **Action on you:** fill `[X]` placeholders (see 06-gap-analysis.md) |
-| 01-distributed-systems | ⬜ | Planned files listed in its README |
+| 01-distributed-systems | ✅ | 8 docs complete (fault tolerance/HA, consistency, replication, partitioning, consensus, time & ordering, failure detection, CAP/PACELC) |
 | 02-databases | ⬜ | |
 | 03-caching | ⬜ | |
 | 04-messaging-streaming | ⬜ | |
@@ -26,9 +26,9 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 ## Recommended next steps (given a typical 8–12 week runway)
 
 1. **You, this week:** fix resume placeholders + verify ownership claims (00/06-gap-analysis.md).
-2. **Next writing turn:** `01-distributed-systems` (foundation for everything else). Say "next".
-3. Then: `05-resilience` (your strongest resume surface — get it bulletproof early),
-   `04-messaging-streaming`, `02-databases`, `14-distributed-transactions`,
+2. **Next writing turn:** `05-resilience` (your strongest resume surface — get it
+   bulletproof early). Say "next".
+3. Then: `04-messaging-streaming`, `02-databases`, `14-distributed-transactions`,
    `07-system-design`, remainder per README roadmap.
 4. Start `11-coding-dsa`-style daily practice immediately in parallel (2 problems/day,
    timed, talking out loud) — the doc will sharpen it, but volume can't be backloaded.
