@@ -1,17 +1,38 @@
 # 04 — Messaging & Streaming
 
-> **Status: STUB.** Say "next" (or name this directory) in the prep session to have it
-> written in full. Every document here will follow the five-part teaching contract
-> (definition → practice → senior depth → resume connection → interviewer probes)
-> and end with a 10+ question self-test with hidden answers.
+**Status: ✅ Complete.** Eight documents on the five-part contract, each ending
+in a hidden-answer self-test. This directory IS your platform — Pulsar, Storm,
+CDC, DLQs — so nearly every section doubles as resume defense.
 
-## Planned documents
+## Reading order
 
-- 01-queues-vs-logs.md — semantics from first principles
-- 02-pulsar-vs-kafka.md — architecture-level comparison (brokers vs bookies, subscriptions vs consumer groups) — you MUST win this question
-- 03-storm-and-stream-processing.md — Storm's acker model, at-least-once mechanics, and the honest 'why not Flink in 2026' answer
-- 04-delivery-semantics.md — at-most/at-least/exactly-once; the exactly-once myths doc
-- 05-ordering.md — per-key ordering, global ordering costs
-- 06-dlq-and-poison-messages.md — your DLQ force-query recovery path, generalized
-- 07-cdc.md — CDC patterns; your HBase SEP → Pulsar → Storm pipeline as a case study
-- 08-backpressure.md — queue-depth signals, consumer lag, flow control
+| # | Document | One-line takeaway |
+|---|----------|-------------------|
+| 1 | [Queues vs logs](01-queues-vs-logs.md) | "A queue tracks message state; a log tracks consumer state" — commands vs events, and how Pulsar subscriptions give you both |
+| 2 | [Pulsar vs Kafka](02-pulsar-vs-kafka.md) | The question you must win: compute/storage separation, per-message acks vs offsets, fsync postures, honest Kafka concessions |
+| 3 | [Storm & stream processing](03-storm-and-stream-processing.md) | The XOR acker down to the algebra, max.spout.pending, and the precise "which of my designs Flink would absorb" answer |
+| 4 | [Delivery semantics](04-delivery-semantics.md) | Where duplicates are born (seven factories), Kafka EOS anatomy, the exactly-once hierarchy and the "exactly-once *what*?" power move |
+| 5 | [Ordering](05-ordering.md) | The six silent order-breakers, global-order costs, and posture B — your order-tolerance architecture as a deliberate choice |
+| 6 | [DLQs & poison messages](06-dlq-and-poison-messages.md) | Classification gates, the four resolution patterns, front-door replay — your force-query generalized into a pattern language |
+| 7 | [CDC](07-cdc.md) | The pattern space, transactional outbox, snapshot seams, schema evolution — your SEP pipeline with full vocabulary |
+| 8 | [Backpressure](08-backpressure.md) | Credit-based flow control from TCP to Pulsar permits, age-over-depth, the pressure-vessel audit of your own pipeline |
+
+## The five sentences to walk into any interview with
+
+1. "A queue tracks the state of each message; a log tracks the state of each
+   consumer — everything else follows."
+2. "Exactly-once *what*, across *which* boundary? Delivery — impossible; state
+   in a transactional scope — real; external effects — identity or nothing."
+3. "Any system with retries has already given up processing order; the design
+   question is what you do about disorder, and ours is state machines,
+   versions, and re-derivation."
+4. "Every bounded retry needs a terminal state, and a DLQ without a resolution
+   path is a graveyard — ours force-queries the source of truth."
+5. "Pressure always goes somewhere; backpressure design is choosing the vessel
+   and instrumenting it — in-flight windows, durable backlog measured by age,
+   shedding at the edge."
+
+## Self-test discipline
+
+Cold self-tests ≥3 days after reading; misses go to the spaced-repetition deck
+(`15-mock-interviews/` when written).
