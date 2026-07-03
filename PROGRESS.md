@@ -7,7 +7,7 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 | README.md | ✅ | Roadmap, index, justified additions |
 | 00-resume-arsenal | ✅ | 4 project arsenals + cross-cutting attacks + gap analysis. **Action on you:** fill `[X]` placeholders (see 06-gap-analysis.md) |
 | 01-distributed-systems | ✅ | 8 docs complete (fault tolerance/HA, consistency, replication, partitioning, consensus, time & ordering, failure detection, CAP/PACELC) |
-| 02-databases | ⬜ | |
+| 02-databases | ✅ | 8 docs complete (storage engines, taxonomy, indexing, transactions/isolation, HBase, Aerospike, MySQL/InnoDB, when-to-pick-what) |
 | 03-caching | ⬜ | |
 | 04-messaging-streaming | ✅ | 8 docs complete (queues vs logs, Pulsar vs Kafka, Storm, delivery semantics, ordering, DLQ, CDC, backpressure) |
 | 05-resilience | ✅ | 7 docs complete (timeouts, circuit breakers, bulkheads, retries, rate limiting, load shedding/degradation, idempotency) |
@@ -26,10 +26,9 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 ## Recommended next steps (given a typical 8–12 week runway)
 
 1. **You, this week:** fix resume placeholders + verify ownership claims (00/06-gap-analysis.md).
-2. **Next writing turn:** `02-databases` (HBase/Aerospike/MySQL internals, storage
-   engines, isolation — your data-layer resume surface). Say "next".
-3. Then: `14-distributed-transactions`, `03-caching`, `07-system-design`,
-   remainder per README roadmap.
+2. **Next writing turn:** `14-distributed-transactions` (sagas, outbox, 2PC,
+   reconciliation — your most predictable deep-dive as a payments SDE-3). Say "next".
+3. Then: `03-caching`, `07-system-design`, remainder per README roadmap.
 4. Start `11-coding-dsa`-style daily practice immediately in parallel (2 problems/day,
    timed, talking out loud) — the doc will sharpen it, but volume can't be backloaded.
 
