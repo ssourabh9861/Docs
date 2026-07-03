@@ -8,7 +8,7 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 | 00-resume-arsenal | ✅ | 4 project arsenals + cross-cutting attacks + gap analysis. **Action on you:** fill `[X]` placeholders (see 06-gap-analysis.md) |
 | 01-distributed-systems | ✅ | 8 docs complete (fault tolerance/HA, consistency, replication, partitioning, consensus, time & ordering, failure detection, CAP/PACELC) |
 | 02-databases | ✅ | 8 docs complete (storage engines, taxonomy, indexing, transactions/isolation, HBase, Aerospike, MySQL/InnoDB, when-to-pick-what) |
-| 03-caching | ⬜ | |
+| 03-caching | ✅ | 4 docs complete (patterns, invalidation/consistency, stampedes/hot keys, eviction/sizing) |
 | 04-messaging-streaming | ✅ | 8 docs complete (queues vs logs, Pulsar vs Kafka, Storm, delivery semantics, ordering, DLQ, CDC, backpressure) |
 | 05-resilience | ✅ | 7 docs complete (timeouts, circuit breakers, bulkheads, retries, rate limiting, load shedding/degradation, idempotency) |
 | 06-concurrency-java | ⬜ | |
@@ -26,9 +26,10 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 ## Recommended next steps (given a typical 8–12 week runway)
 
 1. **You, this week:** fix resume placeholders + verify ownership claims (00/06-gap-analysis.md).
-2. **Next writing turn:** `03-caching` (patterns, invalidation, stampedes —
-   short directory, completes the data layer). Say "next".
-3. Then: `07-system-design` (the big one), remainder per README roadmap.
+2. **Next writing turn:** `07-system-design` — the big one: the L5 method doc plus
+   12 worked designs. Given its size it may span more than one "next". Say "next".
+3. Then: `08-api-design`, `13-networking`, `10-infra-observability`, remainder per
+   README roadmap.
 4. Start `11-coding-dsa`-style daily practice immediately in parallel (2 problems/day,
    timed, talking out loud) — the doc will sharpen it, but volume can't be backloaded.
 
