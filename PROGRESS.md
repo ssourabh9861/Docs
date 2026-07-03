@@ -19,16 +19,16 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 | 11-coding-dsa | ⬜ | **Start daily practice now regardless — do not wait for this doc** |
 | 12-behavioral-leadership | ⬜ | STAR bank will build on 00-resume-arsenal stories |
 | 13-networking | ⬜ | Added directory |
-| 14-distributed-transactions | ⬜ | Added directory |
+| 14-distributed-transactions | ✅ | 6 docs complete (the problem, 2PC, sagas, outbox/CDC, reconciliation, payment consistency patterns) |
 | 15-mock-interviews | ⬜ | Added directory |
 | 99-cheat-sheets | ⬜ | Write last |
 
 ## Recommended next steps (given a typical 8–12 week runway)
 
 1. **You, this week:** fix resume placeholders + verify ownership claims (00/06-gap-analysis.md).
-2. **Next writing turn:** `14-distributed-transactions` (sagas, outbox, 2PC,
-   reconciliation — your most predictable deep-dive as a payments SDE-3). Say "next".
-3. Then: `03-caching`, `07-system-design`, remainder per README roadmap.
+2. **Next writing turn:** `03-caching` (patterns, invalidation, stampedes —
+   short directory, completes the data layer). Say "next".
+3. Then: `07-system-design` (the big one), remainder per README roadmap.
 4. Start `11-coding-dsa`-style daily practice immediately in parallel (2 problems/day,
    timed, talking out loud) — the doc will sharpen it, but volume can't be backloaded.
 
