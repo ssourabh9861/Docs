@@ -12,7 +12,7 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 | 04-messaging-streaming | ✅ | 8 docs complete (queues vs logs, Pulsar vs Kafka, Storm, delivery semantics, ordering, DLQ, CDC, backpressure) |
 | 05-resilience | ✅ | 7 docs complete (timeouts, circuit breakers, bulkheads, retries, rate limiting, load shedding/degradation, idempotency) |
 | 06-concurrency-java | ⬜ | |
-| 07-system-design | 🟡 | Method doc + designs 1–6 done (payment, rate limiter, notifications, URL shortener, chat, feed); designs 7–12 next turn |
+| 07-system-design | ✅ | Method doc + 12 worked designs complete |
 | 08-api-design | ⬜ | |
 | 09-security | ⬜ | |
 | 10-infra-observability | ⬜ | |
@@ -26,11 +26,11 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 ## Recommended next steps (given a typical 8–12 week runway)
 
 1. **You, this week:** fix resume placeholders + verify ownership claims (00/06-gap-analysis.md).
-2. **Next writing turn:** `07-system-design` part 2 — designs 7–12 (distributed
-   cache, ad-click aggregator, object store, top-K/typeahead, scheduler, proximity)
-   + directory README. Say "next".
-3. Then: `08-api-design`, `13-networking`, `10-infra-observability`, remainder per
-   README roadmap.
+2. **Next writing turn:** `08-api-design` (REST, idempotency keys, webhooks,
+   gRPC, gateway patterns — short directory, heavy resume surface). Say "next".
+3. Then: `13-networking`, `10-infra-observability`, `06-concurrency-java`,
+   `09-security`, `11-coding-dsa`, `12-behavioral-leadership`, `15-mock-interviews`,
+   `99-cheat-sheets` per README roadmap.
 4. Start `11-coding-dsa`-style daily practice immediately in parallel (2 problems/day,
    timed, talking out loud) — the doc will sharpen it, but volume can't be backloaded.
 
