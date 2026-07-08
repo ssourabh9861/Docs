@@ -13,7 +13,7 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 | 05-resilience | ✅ | 7 docs complete (timeouts, circuit breakers, bulkheads, retries, rate limiting, load shedding/degradation, idempotency) |
 | 06-concurrency-java | ⬜ | |
 | 07-system-design | ✅ | Method doc + 12 worked designs complete |
-| 08-api-design | ⬜ | |
+| 08-api-design | 🟡 | 2 of 6 docs (REST fundamentals, versioning/pagination); idempotency-keys, webhooks, grpc-vs-rest, gateway-patterns remaining |
 | 09-security | ⬜ | |
 | 10-infra-observability | ⬜ | |
 | 11-coding-dsa | ⬜ | **Start daily practice now regardless — do not wait for this doc** |
