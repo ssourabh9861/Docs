@@ -13,7 +13,7 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 | 05-resilience | ✅ | 7 docs complete (timeouts, circuit breakers, bulkheads, retries, rate limiting, load shedding/degradation, idempotency) |
 | 06-concurrency-java | ⬜ | |
 | 07-system-design | ✅ | Method doc + 12 worked designs complete |
-| 08-api-design | 🟡 | 2 of 6 docs (REST fundamentals, versioning/pagination); idempotency-keys, webhooks, grpc-vs-rest, gateway-patterns remaining |
+| 08-api-design | ✅ | 6 docs complete (REST fundamentals, versioning/pagination, idempotency-keys, webhooks, grpc-vs-rest, gateway-patterns) |
 | 09-security | ⬜ | |
 | 10-infra-observability | ⬜ | |
 | 11-coding-dsa | ⬜ | **Start daily practice now regardless — do not wait for this doc** |
@@ -26,10 +26,10 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 ## Recommended next steps (given a typical 8–12 week runway)
 
 1. **You, this week:** fix resume placeholders + verify ownership claims (00/06-gap-analysis.md).
-2. **Next writing turn:** `08-api-design` (REST, idempotency keys, webhooks,
-   gRPC, gateway patterns — short directory, heavy resume surface). Say "next".
-3. Then: `13-networking`, `10-infra-observability`, `06-concurrency-java`,
-   `09-security`, `11-coding-dsa`, `12-behavioral-leadership`, `15-mock-interviews`,
+2. **Next writing turn:** `13-networking` (TCP/TLS/HTTP2-3/DNS/load-balancing —
+   assumed fluency in design rounds). Say "next".
+3. Then: `10-infra-observability`, `06-concurrency-java`, `09-security`,
+   `11-coding-dsa`, `12-behavioral-leadership`, `15-mock-interviews`,
    `99-cheat-sheets` per README roadmap.
 4. Start `11-coding-dsa`-style daily practice immediately in parallel (2 problems/day,
    timed, talking out loud) — the doc will sharpen it, but volume can't be backloaded.
