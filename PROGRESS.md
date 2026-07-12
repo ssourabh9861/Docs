@@ -18,7 +18,7 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 | 10-infra-observability | ⬜ | |
 | 11-coding-dsa | ⬜ | **Start daily practice now regardless — do not wait for this doc** |
 | 12-behavioral-leadership | ⬜ | STAR bank will build on 00-resume-arsenal stories |
-| 13-networking | ⬜ | Added directory |
+| 13-networking | ✅ | 5 docs complete (TCP, TLS, HTTP/1-2-3, DNS/anycast, load balancing) |
 | 14-distributed-transactions | ✅ | 6 docs complete (the problem, 2PC, sagas, outbox/CDC, reconciliation, payment consistency patterns) |
 | 15-mock-interviews | ⬜ | Added directory |
 | 99-cheat-sheets | ⬜ | Write last |
@@ -26,11 +26,11 @@ Legend: ✅ complete · 🟡 partial · ⬜ stub only
 ## Recommended next steps (given a typical 8–12 week runway)
 
 1. **You, this week:** fix resume placeholders + verify ownership claims (00/06-gap-analysis.md).
-2. **Next writing turn:** `13-networking` (TCP/TLS/HTTP2-3/DNS/load-balancing —
-   assumed fluency in design rounds). Say "next".
-3. Then: `10-infra-observability`, `06-concurrency-java`, `09-security`,
-   `11-coding-dsa`, `12-behavioral-leadership`, `15-mock-interviews`,
-   `99-cheat-sheets` per README roadmap.
+2. **Next writing turn:** `10-infra-observability` (Kubernetes, autoscaling,
+   metrics/logs/traces, SLOs, capacity). Say "next".
+3. Then: `06-concurrency-java`, `09-security`, `11-coding-dsa`,
+   `12-behavioral-leadership`, `15-mock-interviews`, `99-cheat-sheets` per README
+   roadmap.
 4. Start `11-coding-dsa`-style daily practice immediately in parallel (2 problems/day,
    timed, talking out loud) — the doc will sharpen it, but volume can't be backloaded.
 
