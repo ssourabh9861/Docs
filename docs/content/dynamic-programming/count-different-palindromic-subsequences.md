@@ -101,16 +101,16 @@ class Solution {
                     dp[i][j] = dp[i + 1][j] + dp[i][j - 1] - dp[i + 1][j - 1];
                 } else {
                     int c = s.charAt(i) - 'a';
-                    int low = next[c][i + 1];
-                    int high = prev[c][j - 1 + 1] < 0 ? -1 : prevBefore(prev, c, j);
-                    // low: first c in (i, j); high: last c in (i, j)
-                    low = (low != -1 && low < j) ? low : -1;
-                    high = lastOccurrence(prev, c, j);
-                    if (low == -1) {
+                    int low = next[c][i + 1];  // first occurrence of c at index >= i+1
+                    int high = prev[c][j];     // last occurrence of c at index < j
+                    if (low == j) {
+                        // no c strictly between i and j
                         dp[i][j] = 2 * dp[i + 1][j - 1] + 2;
                     } else if (low == high) {
+                        // exactly one c strictly between i and j
                         dp[i][j] = 2 * dp[i + 1][j - 1] + 1;
                     } else {
+                        // two or more c's strictly between i and j
                         dp[i][j] = 2 * dp[i + 1][j - 1] - dp[low + 1][high - 1];
                     }
                 }
@@ -118,15 +118,6 @@ class Solution {
             }
         }
         return (int) dp[0][n - 1];
-    }
-
-    private int lastOccurrence(int[][] prev, int c, int j) {
-        int idx = prev[c][j]; // last occurrence of c strictly before index j
-        return idx;
-    }
-
-    private int prevBefore(int[][] prev, int c, int j) {
-        return prev[c][j];
     }
 }
 ```
