@@ -1,0 +1,53 @@
+name: Sync DSA tracker
+
+# Regenerates docs/data/progress.json + meta.json from the DSA tracker sheet
+# so the revision site's solved/unsolved status stays current.
+#
+# Manual run  : Actions tab → "Sync DSA tracker" → Run workflow  (the site's
+#               "⟳ Sync now" button links straight here).
+# Scheduled   : daily at 06:00 UTC.
+#
+# LIVE fetch requires a repository *variable* TRACKER_GID set to the numeric
+# gid of the tracker's 3rd tab (open that tab in the sheet; the URL ends in
+# #gid=NNNNN). The sheet must be link-shared as "Anyone with the link: Viewer".
+# Without TRACKER_GID the script rebuilds from the committed snapshot instead.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-tracker
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate progress data
+        env:
+          SPREADSHEET_ID: ${{ vars.SPREADSHEET_ID || '1EzPE3ub0GH540iiVbf1rKBf1-BMp4tnon_WZem5eBH0' }}
+          TRACKER_GID: ${{ vars.TRACKER_GID }}
+        run: python scripts/sync_tracker.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain docs/data)" ]]; then
+            git add docs/data/progress.json docs/data/meta.json
+            git commit -m "chore: sync DSA tracker progress data"
+            git push
+          else
+            echo "No changes in tracker data."
+          fi

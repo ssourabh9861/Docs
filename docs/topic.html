@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Topic · DSA Revision</title>
+  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚔️</text></svg>" />
+</head>
+<body data-page="topic">
+  <header class="topbar">
+    <div class="wrap">
+      <div class="brand">
+        <a class="logo" href="index.html" style="text-decoration:none">DSA</a>
+        <a href="index.html" style="color:inherit;text-decoration:none">LeetCode Hardcore <small>· revision</small></a>
+      </div>
+      <span class="spacer"></span>
+      <button id="themeBtn" class="iconbtn">🌙 Dark</button>
+    </div>
+  </header>
+
+  <main id="main" class="wrap">
+    <div id="topicHead" class="topic-head"></div>
+
+    <div class="controls">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="searchInput" type="text" placeholder="Search problems in this topic…" />
+      </label>
+      <div class="segz" id="seg">
+        <button data-f="all" class="active">All</button>
+        <button data-f="unsolved">Unsolved</button>
+        <button data-f="solved">Solved</button>
+      </div>
+    </div>
+
+    <div id="plist"></div>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span><a href="index.html">← Back to all topics</a></span>
+      <span>Solutions load on demand · tap a card to reveal</span>
+    </div>
+  </footer>
+
+  <script src="assets/marked.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

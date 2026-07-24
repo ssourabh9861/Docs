@@ -1,0 +1,2722 @@
+[
+  {
+    "topic": "Arrays / Hashing / Prefix-sum",
+    "topicSlug": "arrays-hashing-prefix-sum",
+    "subtopic": "Arrays / Hashing / Prefix-sum",
+    "problem": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Arrays / Hashing / Prefix-sum",
+    "topicSlug": "arrays-hashing-prefix-sum",
+    "subtopic": "Arrays / Hashing / Prefix-sum",
+    "problem": "Subarrays with K Different Integers",
+    "slug": "subarrays-with-k-different-integers",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Arrays / Hashing / Prefix-sum",
+    "topicSlug": "arrays-hashing-prefix-sum",
+    "subtopic": "Arrays / Hashing / Prefix-sum",
+    "problem": "Count of Range Sum",
+    "slug": "count-of-range-sum",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Arrays / Hashing / Prefix-sum",
+    "topicSlug": "arrays-hashing-prefix-sum",
+    "subtopic": "Arrays / Hashing / Prefix-sum",
+    "problem": "Maximum Sum of 3 Non-Overlapping Subarrays",
+    "slug": "maximum-sum-of-3-non-overlapping-subarrays",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Arrays / Hashing / Prefix-sum",
+    "topicSlug": "arrays-hashing-prefix-sum",
+    "subtopic": "Arrays / Hashing / Prefix-sum",
+    "problem": "Number of Submatrices That Sum to Target",
+    "slug": "number-of-submatrices-that-sum-to-target",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Arrays / Hashing / Prefix-sum",
+    "topicSlug": "arrays-hashing-prefix-sum",
+    "subtopic": "Arrays / Hashing / Prefix-sum",
+    "problem": "Max Sum of Rectangle No Larger Than K",
+    "slug": "max-sum-of-rectangle-no-larger-than-k",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Arrays / Hashing / Prefix-sum",
+    "topicSlug": "arrays-hashing-prefix-sum",
+    "subtopic": "Arrays / Hashing / Prefix-sum",
+    "problem": "Continuous Subarray Sum / Subarray Sums Divisible by K",
+    "slug": "continuous-subarray-sum-subarray-sums-divisible-by-k",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Arrays / Hashing / Prefix-sum",
+    "topicSlug": "arrays-hashing-prefix-sum",
+    "subtopic": "Arrays / Hashing / Prefix-sum",
+    "problem": "Split Array Largest Sum",
+    "slug": "split-array-largest-sum",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Two Pointers",
+    "topicSlug": "two-pointers",
+    "subtopic": "Two Pointers",
+    "problem": "3Sum / 4Sum / kSum",
+    "slug": "3sum-4sum-ksum",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Two Pointers",
+    "topicSlug": "two-pointers",
+    "subtopic": "Two Pointers",
+    "problem": "Trapping Rain Water",
+    "slug": "trapping-rain-water",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Two Pointers",
+    "topicSlug": "two-pointers",
+    "subtopic": "Two Pointers",
+    "problem": "Container With Most Water",
+    "slug": "container-with-most-water",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Two Pointers",
+    "topicSlug": "two-pointers",
+    "subtopic": "Two Pointers",
+    "problem": "Sort Colors",
+    "slug": "sort-colors",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Two Pointers",
+    "topicSlug": "two-pointers",
+    "subtopic": "Two Pointers",
+    "problem": "Subarrays with Product Less Than K",
+    "slug": "subarrays-with-product-less-than-k",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Two Pointers",
+    "topicSlug": "two-pointers",
+    "subtopic": "Two Pointers",
+    "problem": "Boats to Save People",
+    "slug": "boats-to-save-people",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Two Pointers",
+    "topicSlug": "two-pointers",
+    "subtopic": "Two Pointers",
+    "problem": "Count Pairs / 3Sum Smaller",
+    "slug": "count-pairs-3sum-smaller",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Two Pointers",
+    "topicSlug": "two-pointers",
+    "subtopic": "Two Pointers",
+    "problem": "Trapping Rain Water II",
+    "slug": "trapping-rain-water-ii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Sliding Window",
+    "topicSlug": "sliding-window",
+    "subtopic": "Sliding Window",
+    "problem": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Sliding Window",
+    "topicSlug": "sliding-window",
+    "subtopic": "Sliding Window",
+    "problem": "Minimum Window Substring",
+    "slug": "minimum-window-substring",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Sliding Window",
+    "topicSlug": "sliding-window",
+    "subtopic": "Sliding Window",
+    "problem": "Subarrays with K Different Integers",
+    "slug": "subarrays-with-k-different-integers",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Sliding Window",
+    "topicSlug": "sliding-window",
+    "subtopic": "Sliding Window",
+    "problem": "Sliding Window Maximum",
+    "slug": "sliding-window-maximum",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Sliding Window",
+    "topicSlug": "sliding-window",
+    "subtopic": "Sliding Window",
+    "problem": "Longest Substring with At Most K Distinct",
+    "slug": "longest-substring-with-at-most-k-distinct",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Sliding Window",
+    "topicSlug": "sliding-window",
+    "subtopic": "Sliding Window",
+    "problem": "Substring with Concatenation of All Words",
+    "slug": "substring-with-concatenation-of-all-words",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Sliding Window",
+    "topicSlug": "sliding-window",
+    "subtopic": "Sliding Window",
+    "problem": "Minimum Number of K Consecutive Bit Flips",
+    "slug": "minimum-number-of-k-consecutive-bit-flips",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Sliding Window",
+    "topicSlug": "sliding-window",
+    "subtopic": "Sliding Window",
+    "problem": "Count Number of Nice Subarrays",
+    "slug": "count-number-of-nice-subarrays",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Sliding Window",
+    "topicSlug": "sliding-window",
+    "subtopic": "Sliding Window",
+    "problem": "Replace the Substring for Balanced String",
+    "slug": "replace-the-substring-for-balanced-string",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Sliding Window",
+    "topicSlug": "sliding-window",
+    "subtopic": "Sliding Window",
+    "problem": "Longest Substring with At Least K Repeating Characters",
+    "slug": "longest-substring-with-at-least-k-repeating-characters",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "subtopic": "Binary Search",
+    "problem": "Median of Two Sorted Arrays",
+    "slug": "median-of-two-sorted-arrays",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "subtopic": "Binary Search",
+    "problem": "Split Array Largest Sum",
+    "slug": "split-array-largest-sum",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "subtopic": "Binary Search",
+    "problem": "Capacity to Ship Packages Within D Days",
+    "slug": "capacity-to-ship-packages-within-d-days",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "subtopic": "Binary Search",
+    "problem": "Koko Eating Bananas",
+    "slug": "koko-eating-bananas",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "subtopic": "Binary Search",
+    "problem": "Find K-th Smallest Pair Distance",
+    "slug": "find-k-th-smallest-pair-distance",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "subtopic": "Binary Search",
+    "problem": "Kth Smallest Element in a Sorted Matrix",
+    "slug": "kth-smallest-element-in-a-sorted-matrix",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "subtopic": "Binary Search",
+    "problem": "Minimize Max Distance to Gas Station",
+    "slug": "minimize-max-distance-to-gas-station",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "subtopic": "Binary Search",
+    "problem": "Find Minimum in Rotated Sorted Array II",
+    "slug": "find-minimum-in-rotated-sorted-array-ii",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "subtopic": "Binary Search",
+    "problem": "Aggressive Cows / Magnetic Force Between Balls",
+    "slug": "aggressive-cows-magnetic-force-between-balls",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Binary Search",
+    "topicSlug": "binary-search",
+    "subtopic": "Binary Search",
+    "problem": "Median of a Row-Wise Sorted Matrix",
+    "slug": "median-of-a-row-wise-sorted-matrix",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": "Premium"
+  },
+  {
+    "topic": "Monotonic Stack",
+    "topicSlug": "monotonic-stack",
+    "subtopic": "Monotonic Stack",
+    "problem": "Largest Rectangle in Histogram",
+    "slug": "largest-rectangle-in-histogram",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Monotonic Stack",
+    "topicSlug": "monotonic-stack",
+    "subtopic": "Monotonic Stack",
+    "problem": "Maximal Rectangle",
+    "slug": "maximal-rectangle",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Monotonic Stack",
+    "topicSlug": "monotonic-stack",
+    "subtopic": "Monotonic Stack",
+    "problem": "Trapping Rain Water",
+    "slug": "trapping-rain-water",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Monotonic Stack",
+    "topicSlug": "monotonic-stack",
+    "subtopic": "Monotonic Stack",
+    "problem": "Sum of Subarray Minimums",
+    "slug": "sum-of-subarray-minimums",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Monotonic Stack",
+    "topicSlug": "monotonic-stack",
+    "subtopic": "Monotonic Stack",
+    "problem": "Remove K Digits / Remove Duplicate Letters",
+    "slug": "remove-k-digits-remove-duplicate-letters",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Monotonic Stack",
+    "topicSlug": "monotonic-stack",
+    "subtopic": "Monotonic Stack",
+    "problem": "Largest Rectangle / 132 Pattern",
+    "slug": "largest-rectangle-132-pattern",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Monotonic Stack",
+    "topicSlug": "monotonic-stack",
+    "subtopic": "Monotonic Stack",
+    "problem": "Maximum Width Ramp",
+    "slug": "maximum-width-ramp",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Monotonic Stack",
+    "topicSlug": "monotonic-stack",
+    "subtopic": "Monotonic Stack",
+    "problem": "Number of Visible People in a Queue",
+    "slug": "number-of-visible-people-in-a-queue",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Monotonic Stack",
+    "topicSlug": "monotonic-stack",
+    "subtopic": "Monotonic Stack",
+    "problem": "Online Stock Span",
+    "slug": "online-stock-span",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Monotonic Stack",
+    "topicSlug": "monotonic-stack",
+    "subtopic": "Monotonic Stack",
+    "problem": "Sum of Subarray Ranges",
+    "slug": "sum-of-subarray-ranges",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Linked List",
+    "topicSlug": "linked-list",
+    "subtopic": "Linked List",
+    "problem": "Reverse Nodes in k-Group",
+    "slug": "reverse-nodes-in-k-group",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Linked List",
+    "topicSlug": "linked-list",
+    "subtopic": "Linked List",
+    "problem": "Merge k Sorted Lists",
+    "slug": "merge-k-sorted-lists",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Linked List",
+    "topicSlug": "linked-list",
+    "subtopic": "Linked List",
+    "problem": "Copy List with Random Pointer",
+    "slug": "copy-list-with-random-pointer",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Linked List",
+    "topicSlug": "linked-list",
+    "subtopic": "Linked List",
+    "problem": "LRU Cache",
+    "slug": "lru-cache",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Linked List",
+    "topicSlug": "linked-list",
+    "subtopic": "Linked List",
+    "problem": "LFU Cache",
+    "slug": "lfu-cache",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Linked List",
+    "topicSlug": "linked-list",
+    "subtopic": "Linked List",
+    "problem": "Reorder List",
+    "slug": "reorder-list",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Linked List",
+    "topicSlug": "linked-list",
+    "subtopic": "Linked List",
+    "problem": "Linked List Cycle II",
+    "slug": "linked-list-cycle-ii",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Linked List",
+    "topicSlug": "linked-list",
+    "subtopic": "Linked List",
+    "problem": "Sort List",
+    "slug": "sort-list",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Linked List",
+    "topicSlug": "linked-list",
+    "subtopic": "Linked List",
+    "problem": "Flatten a Multilevel Doubly Linked List",
+    "slug": "flatten-a-multilevel-doubly-linked-list",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Linked List",
+    "topicSlug": "linked-list",
+    "subtopic": "Linked List",
+    "problem": "Merge In Between Linked Lists",
+    "slug": "merge-in-between-linked-lists",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Trees",
+    "topicSlug": "trees",
+    "subtopic": "Trees",
+    "problem": "Binary Tree Maximum Path Sum",
+    "slug": "binary-tree-maximum-path-sum",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Trees",
+    "topicSlug": "trees",
+    "subtopic": "Trees",
+    "problem": "Serialize and Deserialize Binary Tree",
+    "slug": "serialize-and-deserialize-binary-tree",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Trees",
+    "topicSlug": "trees",
+    "subtopic": "Trees",
+    "problem": "Construct Binary Tree from Preorder & Inorder",
+    "slug": "construct-binary-tree-from-preorder-inorder",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Trees",
+    "topicSlug": "trees",
+    "subtopic": "Trees",
+    "problem": "Lowest Common Ancestor",
+    "slug": "lowest-common-ancestor",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Trees",
+    "topicSlug": "trees",
+    "subtopic": "Trees",
+    "problem": "Binary Tree Cameras",
+    "slug": "binary-tree-cameras",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Trees",
+    "topicSlug": "trees",
+    "subtopic": "Trees",
+    "problem": "Vertical Order Traversal",
+    "slug": "vertical-order-traversal",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Trees",
+    "topicSlug": "trees",
+    "subtopic": "Trees",
+    "problem": "Recover Binary Search Tree",
+    "slug": "recover-binary-search-tree",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Trees",
+    "topicSlug": "trees",
+    "subtopic": "Trees",
+    "problem": "Count of Smaller Numbers After Self",
+    "slug": "count-of-smaller-numbers-after-self",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Trees",
+    "topicSlug": "trees",
+    "subtopic": "Trees",
+    "problem": "All Nodes Distance K in Binary Tree",
+    "slug": "all-nodes-distance-k-in-binary-tree",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Trees",
+    "topicSlug": "trees",
+    "subtopic": "Trees",
+    "problem": "Maximum Sum BST in Binary Tree",
+    "slug": "maximum-sum-bst-in-binary-tree",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Tries",
+    "topicSlug": "tries",
+    "subtopic": "Tries",
+    "problem": "Word Search II",
+    "slug": "word-search-ii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Tries",
+    "topicSlug": "tries",
+    "subtopic": "Tries",
+    "problem": "Design Add and Search Words",
+    "slug": "design-add-and-search-words",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Tries",
+    "topicSlug": "tries",
+    "subtopic": "Tries",
+    "problem": "Maximum XOR of Two Numbers in an Array",
+    "slug": "maximum-xor-of-two-numbers-in-an-array",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Tries",
+    "topicSlug": "tries",
+    "subtopic": "Tries",
+    "problem": "Maximum XOR With an Element From Array",
+    "slug": "maximum-xor-with-an-element-from-array",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Tries",
+    "topicSlug": "tries",
+    "subtopic": "Tries",
+    "problem": "Concatenated Words",
+    "slug": "concatenated-words",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Tries",
+    "topicSlug": "tries",
+    "subtopic": "Tries",
+    "problem": "Palindrome Pairs",
+    "slug": "palindrome-pairs",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Tries",
+    "topicSlug": "tries",
+    "subtopic": "Tries",
+    "problem": "Stream of Characters",
+    "slug": "stream-of-characters",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Tries",
+    "topicSlug": "tries",
+    "subtopic": "Tries",
+    "problem": "Word Squares",
+    "slug": "word-squares",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Tries",
+    "topicSlug": "tries",
+    "subtopic": "Tries",
+    "problem": "Replace Words",
+    "slug": "replace-words",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Tries",
+    "topicSlug": "tries",
+    "subtopic": "Tries",
+    "problem": "Count Pairs With XOR in a Range",
+    "slug": "count-pairs-with-xor-in-a-range",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "Find Median from Data Stream",
+    "slug": "find-median-from-data-stream",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "Merge k Sorted Lists",
+    "slug": "merge-k-sorted-lists",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "Sliding Window Median",
+    "slug": "sliding-window-median",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "Top K Frequent Elements / Words",
+    "slug": "top-k-frequent-elements-words",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "Task Scheduler",
+    "slug": "task-scheduler",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "Reorganize String / Rearrange so no two adjacent",
+    "slug": "reorganize-string-rearrange-so-no-two-adjacent",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "IPO",
+    "slug": "ipo",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "Find K Pairs with Smallest Sums",
+    "slug": "find-k-pairs-with-smallest-sums",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "Smallest Range Covering Elements from K Lists",
+    "slug": "smallest-range-covering-elements-from-k-lists",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "Maximum Performance of a Team",
+    "slug": "maximum-performance-of-a-team",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Heaps",
+    "topicSlug": "heaps",
+    "subtopic": "Heaps",
+    "problem": "Single-Threaded CPU",
+    "slug": "single-threaded-cpu",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Intervals",
+    "topicSlug": "intervals",
+    "subtopic": "Intervals",
+    "problem": "Merge Intervals / Insert Interval",
+    "slug": "merge-intervals-insert-interval",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Intervals",
+    "topicSlug": "intervals",
+    "subtopic": "Intervals",
+    "problem": "Meeting Rooms II",
+    "slug": "meeting-rooms-ii",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Intervals",
+    "topicSlug": "intervals",
+    "subtopic": "Intervals",
+    "problem": "Non-overlapping Intervals",
+    "slug": "non-overlapping-intervals",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Intervals",
+    "topicSlug": "intervals",
+    "subtopic": "Intervals",
+    "problem": "Employee Free Time",
+    "slug": "employee-free-time",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Intervals",
+    "topicSlug": "intervals",
+    "subtopic": "Intervals",
+    "problem": "Minimum Number of Arrows to Burst Balloons",
+    "slug": "minimum-number-of-arrows-to-burst-balloons",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Intervals",
+    "topicSlug": "intervals",
+    "subtopic": "Intervals",
+    "problem": "Data Stream as Disjoint Intervals",
+    "slug": "data-stream-as-disjoint-intervals",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Intervals",
+    "topicSlug": "intervals",
+    "subtopic": "Intervals",
+    "problem": "Range Module",
+    "slug": "range-module",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Intervals",
+    "topicSlug": "intervals",
+    "subtopic": "Intervals",
+    "problem": "Maximum Profit in Job Scheduling",
+    "slug": "maximum-profit-in-job-scheduling",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Intervals",
+    "topicSlug": "intervals",
+    "subtopic": "Intervals",
+    "problem": "My Calendar II / III",
+    "slug": "my-calendar-ii-iii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Intervals",
+    "topicSlug": "intervals",
+    "subtopic": "Intervals",
+    "problem": "The Skyline Problem",
+    "slug": "the-skyline-problem",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Backtracking",
+    "topicSlug": "backtracking",
+    "subtopic": "Backtracking",
+    "problem": "N-Queens / N-Queens II",
+    "slug": "n-queens-n-queens-ii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Backtracking",
+    "topicSlug": "backtracking",
+    "subtopic": "Backtracking",
+    "problem": "Sudoku Solver",
+    "slug": "sudoku-solver",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Backtracking",
+    "topicSlug": "backtracking",
+    "subtopic": "Backtracking",
+    "problem": "Word Search II",
+    "slug": "word-search-ii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Backtracking",
+    "topicSlug": "backtracking",
+    "subtopic": "Backtracking",
+    "problem": "Palindrome Partitioning II",
+    "slug": "palindrome-partitioning-ii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Backtracking",
+    "topicSlug": "backtracking",
+    "subtopic": "Backtracking",
+    "problem": "Permutations II / Subsets II / Combination Sum II",
+    "slug": "permutations-ii-subsets-ii-combination-sum-ii",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Backtracking",
+    "topicSlug": "backtracking",
+    "subtopic": "Backtracking",
+    "problem": "Expression Add Operators",
+    "slug": "expression-add-operators",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Backtracking",
+    "topicSlug": "backtracking",
+    "subtopic": "Backtracking",
+    "problem": "Remove Invalid Parentheses",
+    "slug": "remove-invalid-parentheses",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Backtracking",
+    "topicSlug": "backtracking",
+    "subtopic": "Backtracking",
+    "problem": "Partition to K Equal Sum Subsets",
+    "slug": "partition-to-k-equal-sum-subsets",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Backtracking",
+    "topicSlug": "backtracking",
+    "subtopic": "Backtracking",
+    "problem": "Letter Combinations / Restore IP Addresses",
+    "slug": "letter-combinations-restore-ip-addresses",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Backtracking",
+    "topicSlug": "backtracking",
+    "subtopic": "Backtracking",
+    "problem": "Matchsticks to Square",
+    "slug": "matchsticks-to-square",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Topological Sort",
+    "problem": "Course Schedule I/II",
+    "slug": "course-schedule-i-ii",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Topological Sort",
+    "problem": "Alien Dictionary",
+    "slug": "alien-dictionary",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Topological Sort",
+    "problem": "Parallel Courses II",
+    "slug": "parallel-courses-ii",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Topological Sort",
+    "problem": "Sort Items by Groups Respecting Dependencies",
+    "slug": "sort-items-by-groups-respecting-dependencies",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": "2 topo sort"
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Topological Sort",
+    "problem": "Sequence Reconstruction",
+    "slug": "sequence-reconstruction",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Union-Find",
+    "problem": "Redundant Connection I/II",
+    "slug": "redundant-connection-i-ii",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Union-Find",
+    "problem": "Accounts Merge",
+    "slug": "accounts-merge",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Union-Find",
+    "problem": "Number of Islands II",
+    "slug": "number-of-islands-ii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Union-Find",
+    "problem": "Most Stones Removed",
+    "slug": "most-stones-removed",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Union-Find",
+    "problem": "Smallest String With Swaps",
+    "slug": "smallest-string-with-swaps",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Union-Find",
+    "problem": "Number of Good Paths",
+    "slug": "number-of-good-paths",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Union-Find",
+    "problem": "Making a Large Island",
+    "slug": "making-a-large-island",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Shortest Path",
+    "problem": "Network Delay Time",
+    "slug": "network-delay-time",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Shortest Path",
+    "problem": "Cheapest Flights Within K Stops",
+    "slug": "cheapest-flights-within-k-stops",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Shortest Path",
+    "problem": "Path With Minimum Effort",
+    "slug": "path-with-minimum-effort",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Shortest Path",
+    "problem": "Swim in Rising Water",
+    "slug": "swim-in-rising-water",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Shortest Path",
+    "problem": "Minimum Cost to Make at Least One Valid Path",
+    "slug": "minimum-cost-to-make-at-least-one-valid-path",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Shortest Path",
+    "problem": "Reachable Nodes",
+    "slug": "reachable-nodes",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Shortest Path",
+    "problem": "Shortest Path in a Grid with Obstacles Elimination",
+    "slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Shortest Path",
+    "problem": "Path with Maximum Probability",
+    "slug": "path-with-maximum-probability",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "MST",
+    "problem": "Min Cost to Connect All Points",
+    "slug": "min-cost-to-connect-all-points",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "MST",
+    "problem": "Connecting Cities With Minimum Cost",
+    "slug": "connecting-cities-with-minimum-cost",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "MST",
+    "problem": "Optimize Water Distribution",
+    "slug": "optimize-water-distribution",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "MST",
+    "problem": "Find Critical and Pseudo-Critical Edges in MST",
+    "slug": "find-critical-and-pseudo-critical-edges-in-mst",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Advanced (Bridges/Euler/SCC)",
+    "problem": "Critical Connections in a Network",
+    "slug": "critical-connections-in-a-network",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Advanced (Bridges/Euler/SCC)",
+    "problem": "Reconstruct Itinerary",
+    "slug": "reconstruct-itinerary",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Advanced (Bridges/Euler/SCC)",
+    "problem": "Valid Arrangement of Pairs",
+    "slug": "valid-arrangement-of-pairs",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Graphs",
+    "topicSlug": "graphs",
+    "subtopic": "Advanced (Bridges/Euler/SCC)",
+    "problem": "Minimize Malware Spread",
+    "slug": "minimize-malware-spread",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "1-D / Sequence",
+    "problem": "House Robber I/II",
+    "slug": "house-robber-i-ii",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "1-D / Sequence",
+    "problem": "Decode Ways",
+    "slug": "decode-ways",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "1-D / Sequence",
+    "problem": "Word Break",
+    "slug": "word-break",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "1-D / Sequence",
+    "problem": "Jump Game II",
+    "slug": "jump-game-ii",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "1-D / Sequence",
+    "problem": "Maximum Product Subarray",
+    "slug": "maximum-product-subarray",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "1-D / Sequence",
+    "problem": "Longest Increasing Subsequence",
+    "slug": "longest-increasing-subsequence",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Knapsack",
+    "problem": "Partition Equal Subset Sum",
+    "slug": "partition-equal-subset-sum",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Knapsack",
+    "problem": "Target Sum",
+    "slug": "target-sum",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Knapsack",
+    "problem": "Coin Change I/II",
+    "slug": "coin-change-i-ii",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Knapsack",
+    "problem": "Last Stone Weight II",
+    "slug": "last-stone-weight-ii",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Knapsack",
+    "problem": "Ones and Zeroes",
+    "slug": "ones-and-zeroes",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Knapsack",
+    "problem": "Profitable Schemes",
+    "slug": "profitable-schemes",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Knapsack",
+    "problem": "Number of Dice Rolls With Target Sum",
+    "slug": "number-of-dice-rolls-with-target-sum",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Knapsack",
+    "problem": "Form Largest Integer With Digits That Add up to Target",
+    "slug": "form-largest-integer-with-digits-that-add-up-to-target",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Grid / Path",
+    "problem": "Unique Paths I/II",
+    "slug": "unique-paths-i-ii",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Grid / Path",
+    "problem": "Minimum Path Sum",
+    "slug": "minimum-path-sum",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Grid / Path",
+    "problem": "Dungeon Game",
+    "slug": "dungeon-game",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Grid / Path",
+    "problem": "Cherry Pickup",
+    "slug": "cherry-pickup",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Grid / Path",
+    "problem": "Cherry Pickup II",
+    "slug": "cherry-pickup-ii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Grid / Path",
+    "problem": "Maximal Square",
+    "slug": "maximal-square",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Grid / Path",
+    "problem": "Number of Paths with Max Score",
+    "slug": "number-of-paths-with-max-score",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "String (LCS/Edit)",
+    "problem": "Edit Distance",
+    "slug": "edit-distance",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "String (LCS/Edit)",
+    "problem": "Longest Common Subsequence",
+    "slug": "longest-common-subsequence",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "String (LCS/Edit)",
+    "problem": "Distinct Subsequences",
+    "slug": "distinct-subsequences",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "String (LCS/Edit)",
+    "problem": "Interleaving String",
+    "slug": "interleaving-string",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "String (LCS/Edit)",
+    "problem": "Regular Expression Matching",
+    "slug": "regular-expression-matching",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "String (LCS/Edit)",
+    "problem": "Wildcard Matching",
+    "slug": "wildcard-matching",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "String (LCS/Edit)",
+    "problem": "Shortest Common Supersequence",
+    "slug": "shortest-common-supersequence",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "String (LCS/Edit)",
+    "problem": "Longest Palindromic Subsequence",
+    "slug": "longest-palindromic-subsequence",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "String (LCS/Edit)",
+    "problem": "Scramble String",
+    "slug": "scramble-string",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Palindrome",
+    "problem": "Palindromic Substrings",
+    "slug": "palindromic-substrings",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Palindrome",
+    "problem": "Longest Palindromic Substring",
+    "slug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Palindrome",
+    "problem": "Palindrome Partitioning II",
+    "slug": "palindrome-partitioning-ii",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Palindrome",
+    "problem": "Palindrome Removal",
+    "slug": "palindrome-removal",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Palindrome",
+    "problem": "Count Different Palindromic Subsequences",
+    "slug": "count-different-palindromic-subsequences",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Interval",
+    "problem": "Burst Balloons",
+    "slug": "burst-balloons",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": "Took hint"
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Interval",
+    "problem": "Matrix Chain / Minimum Cost to Merge Stones",
+    "slug": "matrix-chain-minimum-cost-to-merge-stones",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Interval",
+    "problem": "Stone Game VII",
+    "slug": "stone-game-vii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Interval",
+    "problem": "Stone Game V",
+    "slug": "stone-game-v",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Interval",
+    "problem": "Remove Boxes",
+    "slug": "remove-boxes",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Interval",
+    "problem": "Strange Printer",
+    "slug": "strange-printer",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Interval",
+    "problem": "Guess Number Higher or Lower II",
+    "slug": "guess-number-higher-or-lower-ii",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "LIS & Patience",
+    "problem": "Russian Doll Envelopes",
+    "slug": "russian-doll-envelopes",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "LIS & Patience",
+    "problem": "Number of LIS",
+    "slug": "number-of-lis",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "LIS & Patience",
+    "problem": "Maximum Height by Stacking Cuboids",
+    "slug": "maximum-height-by-stacking-cuboids",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "LIS & Patience",
+    "problem": "Longest Increasing Path in a Matrix",
+    "slug": "longest-increasing-path-in-a-matrix",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "LIS & Patience",
+    "problem": "Make Array Strictly Increasing",
+    "slug": "make-array-strictly-increasing",
+    "difficulty": "Very Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Stock / State-machine",
+    "problem": "Best Time to Buy/Sell Stock III",
+    "slug": "best-time-to-buy-sell-stock-iii",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Stock / State-machine",
+    "problem": "Best Time to Buy/Sell Stock IV",
+    "slug": "best-time-to-buy-sell-stock-iv",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Stock / State-machine",
+    "problem": "Best Time to Buy/Sell Stock with Cooldown",
+    "slug": "best-time-to-buy-sell-stock-with-cooldown",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Stock / State-machine",
+    "problem": "Best Time to Buy/Sell Stock with Transaction Fee",
+    "slug": "best-time-to-buy-sell-stock-with-transaction-fee",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Bitmask",
+    "problem": "Partition to K Equal Sum Subsets",
+    "slug": "partition-to-k-equal-sum-subsets",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Bitmask",
+    "problem": "Shortest Path Visiting All Nodes",
+    "slug": "shortest-path-visiting-all-nodes",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Bitmask",
+    "problem": "Minimum Cost to Connect Two Groups",
+    "slug": "minimum-cost-to-connect-two-groups",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Bitmask",
+    "problem": "Find the Shortest Superstring",
+    "slug": "find-the-shortest-superstring",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Bitmask",
+    "problem": "Maximum Students Taking Exam",
+    "slug": "maximum-students-taking-exam",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Bitmask",
+    "problem": "Number of Ways to Wear Different Hats",
+    "slug": "number-of-ways-to-wear-different-hats",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Digit",
+    "problem": "Count Numbers with Unique Digits",
+    "slug": "count-numbers-with-unique-digits",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Digit",
+    "problem": "Numbers At Most N Given Digit Set",
+    "slug": "numbers-at-most-n-given-digit-set",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Digit",
+    "problem": "Count of Integers",
+    "slug": "count-of-integers",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Digit",
+    "problem": "Numbers With Repeated Digits",
+    "slug": "numbers-with-repeated-digits",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Digit",
+    "problem": "Count Special Integers",
+    "slug": "count-special-integers",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Digit",
+    "problem": "Non-negative Integers without Consecutive Ones",
+    "slug": "non-negative-integers-without-consecutive-ones",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Tree DP",
+    "problem": "House Robber III",
+    "slug": "house-robber-iii",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Tree DP",
+    "problem": "Binary Tree Cameras",
+    "slug": "binary-tree-cameras",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Tree DP",
+    "problem": "Sum of Distances in Tree",
+    "slug": "sum-of-distances-in-tree",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Tree DP",
+    "problem": "Tree Diameter",
+    "slug": "tree-diameter",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": "Premium"
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Tree DP",
+    "problem": "Maximum Sum BST",
+    "slug": "maximum-sum-bst",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Dynamic Programming",
+    "topicSlug": "dynamic-programming",
+    "subtopic": "Tree DP",
+    "problem": "Minimum Height Trees",
+    "slug": "minimum-height-trees",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Jump Game II",
+    "slug": "jump-game-ii",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Gas Station",
+    "slug": "gas-station",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Candy",
+    "slug": "candy",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Task Scheduler",
+    "slug": "task-scheduler",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Partition Labels",
+    "slug": "partition-labels",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Minimum Number of Refueling Stops",
+    "slug": "minimum-number-of-refueling-stops",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Course Schedule III",
+    "slug": "course-schedule-iii",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": "Redo"
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Maximum Number of Events That Can Be Attended",
+    "slug": "maximum-number-of-events-that-can-be-attended",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Two City Scheduling",
+    "slug": "two-city-scheduling",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Video Stitching",
+    "slug": "video-stitching",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "Remove K Digits",
+    "slug": "remove-k-digits",
+    "difficulty": "Medium",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Greedy",
+    "topicSlug": "greedy",
+    "subtopic": "Greedy",
+    "problem": "IPO",
+    "slug": "ipo",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Single Number II / III",
+    "slug": "single-number-ii-iii",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Maximum XOR of Two Numbers",
+    "slug": "maximum-xor-of-two-numbers",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Sum of Two Integers",
+    "slug": "sum-of-two-integers",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Counting Bits",
+    "slug": "counting-bits",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Subsets via bitmask",
+    "slug": "subsets-via-bitmask",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Bitwise AND of Range",
+    "slug": "bitwise-and-of-range",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Minimum XOR Sum / Beautiful Arrangement",
+    "slug": "minimum-xor-sum-beautiful-arrangement",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Power of Two / Power of Three / Power of Four",
+    "slug": "power-of-two-power-of-three-power-of-four",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Pow(x,n)",
+    "slug": "pow-x-n",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Sqrt(x)",
+    "slug": "sqrt-x",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Excel Column",
+    "slug": "excel-column",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Count Primes",
+    "slug": "count-primes",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Fraction to Recurring Decimal",
+    "slug": "fraction-to-recurring-decimal",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Basic Calculator I/II/III",
+    "slug": "basic-calculator-i-ii-iii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Max Points on a Line",
+    "slug": "max-points-on-a-line",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Super Pow",
+    "slug": "super-pow",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Math & Bit Manipulation",
+    "topicSlug": "math-bit-manipulation",
+    "subtopic": "Math & Bit Manipulation",
+    "problem": "Nth Magical Number",
+    "slug": "nth-magical-number",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Meet in the Middle",
+    "problem": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "slug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Meet in the Middle",
+    "problem": "Closest Subsequence Sum",
+    "slug": "closest-subsequence-sum",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Meet in the Middle",
+    "problem": "Subset Sum",
+    "slug": "subset-sum",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Meet in the Middle",
+    "problem": "Split Array With Same Average",
+    "slug": "split-array-with-same-average",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Segment Tree / BIT",
+    "problem": "Count of Smaller Numbers After Self",
+    "slug": "count-of-smaller-numbers-after-self",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Segment Tree / BIT",
+    "problem": "Range Sum Query - Mutable",
+    "slug": "range-sum-query-mutable",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Segment Tree / BIT",
+    "problem": "Reverse Pairs",
+    "slug": "reverse-pairs",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Segment Tree / BIT",
+    "problem": "Count of Range Sum",
+    "slug": "count-of-range-sum",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Segment Tree / BIT",
+    "problem": "The Skyline Problem",
+    "slug": "the-skyline-problem",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Segment Tree / BIT",
+    "problem": "Falling Squares",
+    "slug": "falling-squares",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Segment Tree / BIT",
+    "problem": "Range Module",
+    "slug": "range-module",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": "Redo"
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Segment Tree / BIT",
+    "problem": "My Calendar III",
+    "slug": "my-calendar-iii",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": "Most efficient way is segment tree"
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Segment Tree / BIT",
+    "problem": "Longest Increasing Subsequence II",
+    "slug": "longest-increasing-subsequence-ii",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Monotonic Deque",
+    "problem": "Sliding Window Maximum",
+    "slug": "sliding-window-maximum",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Monotonic Deque",
+    "problem": "Shortest Subarray with Sum at Least K",
+    "slug": "shortest-subarray-with-sum-at-least-k",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Monotonic Deque",
+    "problem": "Constrained Subsequence Sum",
+    "slug": "constrained-subsequence-sum",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Monotonic Deque",
+    "problem": "Jump Game VI",
+    "slug": "jump-game-vi",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Monotonic Deque",
+    "problem": "Largest Rectangle",
+    "slug": "largest-rectangle",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Monotonic Deque",
+    "problem": "Max Value of Equation",
+    "slug": "max-value-of-equation",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Line Sweep",
+    "problem": "Meeting Rooms II",
+    "slug": "meeting-rooms-ii",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Line Sweep",
+    "problem": "My Calendar I/II/III",
+    "slug": "my-calendar-i-ii-iii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Line Sweep",
+    "problem": "Rectangle Area II",
+    "slug": "rectangle-area-ii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Line Sweep",
+    "problem": "Employee Free Time",
+    "slug": "employee-free-time",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Line Sweep",
+    "problem": "Number of Airplanes in the Sky",
+    "slug": "number-of-airplanes-in-the-sky",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Line Sweep",
+    "problem": "Describe the Painting",
+    "slug": "describe-the-painting",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Line Sweep",
+    "problem": "Minimum Interval to Include Each Query",
+    "slug": "minimum-interval-to-include-each-query",
+    "difficulty": "Hard",
+    "solved": true,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "String Matching (KMP/Z/RK)",
+    "problem": "Implement strStr()",
+    "slug": "implement-strstr",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "String Matching (KMP/Z/RK)",
+    "problem": "Shortest Palindrome",
+    "slug": "shortest-palindrome",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "String Matching (KMP/Z/RK)",
+    "problem": "Repeated Substring Pattern",
+    "slug": "repeated-substring-pattern",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "String Matching (KMP/Z/RK)",
+    "problem": "Longest Happy Prefix",
+    "slug": "longest-happy-prefix",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "String Matching (KMP/Z/RK)",
+    "problem": "Find All Anagrams",
+    "slug": "find-all-anagrams",
+    "difficulty": "Medium",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "String Matching (KMP/Z/RK)",
+    "problem": "Distinct Echo Substrings",
+    "slug": "distinct-echo-substrings",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "String Matching (KMP/Z/RK)",
+    "problem": "Longest Duplicate Substring",
+    "slug": "longest-duplicate-substring",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "String Matching (KMP/Z/RK)",
+    "problem": "Strings Differ by One Char",
+    "slug": "strings-differ-by-one-char",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Matrix Exponentiation",
+    "problem": "Fibonacci at large n",
+    "slug": "fibonacci-at-large-n",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Matrix Exponentiation",
+    "problem": "Count paths of length k in a graph",
+    "slug": "count-paths-of-length-k-in-a-graph",
+    "difficulty": "Very Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Matrix Exponentiation",
+    "problem": "Knight Dialer",
+    "slug": "knight-dialer",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Matrix Exponentiation",
+    "problem": "Student Attendance Record II",
+    "slug": "student-attendance-record-ii",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  },
+  {
+    "topic": "Niche / Advanced",
+    "topicSlug": "niche-advanced",
+    "subtopic": "Matrix Exponentiation",
+    "problem": "Number of Ways to Stay in the Same Place After Some Steps",
+    "slug": "number-of-ways-to-stay-in-the-same-place-after-some-steps",
+    "difficulty": "Hard",
+    "solved": false,
+    "notes": ""
+  }
+]

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DSA Revision · LeetCode Hardcore</title>
+  <meta name="description" content="Topic-organized LeetCode revision: statements, examples, constraints, multiple approaches and Java code — status synced from the DSA tracker." />
+  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚔️</text></svg>" />
+</head>
+<body data-page="index">
+  <header class="topbar">
+    <div class="wrap">
+      <div class="brand">
+        <span class="logo">DSA</span>
+        <span>LeetCode Hardcore <small>· revision</small></span>
+      </div>
+      <span class="spacer"></span>
+      <button id="themeBtn" class="iconbtn">🌙 Dark</button>
+    </div>
+  </header>
+
+  <main id="main" class="wrap">
+    <section class="hero">
+      <h1>DSA Revision Arsenal</h1>
+      <p>Every problem from the tracker — statement, examples, constraints, multiple
+         approaches and idiomatic Java. Solutions stay hidden until you tap a card, so you
+         can test recall first. Solve-status is synced live from your spreadsheet.</p>
+
+      <div class="dash">
+        <div class="ring" id="ring"></div>
+        <div class="diffbars" id="diffbars"></div>
+      </div>
+
+      <div class="sync" id="syncBanner"></div>
+    </section>
+
+    <div class="section-h">
+      <h2>Topics</h2>
+      <span class="muted">16 patterns · click to open a topic</span>
+    </div>
+    <div class="grid" id="topicGrid"></div>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span>Built for SDE-3 / L5 revision · self-contained static site</span>
+      <span>Status synced from the DSA tracker sheet</span>
+    </div>
+  </footer>
+
+  <script src="assets/marked.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,186 @@
+{
+  "lastSynced": "2026-07-24T17:35:09+00:00",
+  "source": "snapshot",
+  "total": 272,
+  "solved": 78,
+  "percent": 29,
+  "topics": [
+    {
+      "topic": "Arrays / Hashing / Prefix-sum",
+      "topicSlug": "arrays-hashing-prefix-sum",
+      "total": 8,
+      "solved": 0,
+      "subtopics": [
+        "Arrays / Hashing / Prefix-sum"
+      ]
+    },
+    {
+      "topic": "Two Pointers",
+      "topicSlug": "two-pointers",
+      "total": 8,
+      "solved": 0,
+      "subtopics": [
+        "Two Pointers"
+      ]
+    },
+    {
+      "topic": "Sliding Window",
+      "topicSlug": "sliding-window",
+      "total": 10,
+      "solved": 2,
+      "subtopics": [
+        "Sliding Window"
+      ]
+    },
+    {
+      "topic": "Binary Search",
+      "topicSlug": "binary-search",
+      "total": 10,
+      "solved": 7,
+      "subtopics": [
+        "Binary Search"
+      ]
+    },
+    {
+      "topic": "Monotonic Stack",
+      "topicSlug": "monotonic-stack",
+      "total": 10,
+      "solved": 2,
+      "subtopics": [
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "topic": "Linked List",
+      "topicSlug": "linked-list",
+      "total": 10,
+      "solved": 2,
+      "subtopics": [
+        "Linked List"
+      ]
+    },
+    {
+      "topic": "Trees",
+      "topicSlug": "trees",
+      "total": 10,
+      "solved": 2,
+      "subtopics": [
+        "Trees"
+      ]
+    },
+    {
+      "topic": "Tries",
+      "topicSlug": "tries",
+      "total": 10,
+      "solved": 0,
+      "subtopics": [
+        "Tries"
+      ]
+    },
+    {
+      "topic": "Heaps",
+      "topicSlug": "heaps",
+      "total": 11,
+      "solved": 1,
+      "subtopics": [
+        "Heaps"
+      ]
+    },
+    {
+      "topic": "Intervals",
+      "topicSlug": "intervals",
+      "total": 10,
+      "solved": 1,
+      "subtopics": [
+        "Intervals"
+      ]
+    },
+    {
+      "topic": "Backtracking",
+      "topicSlug": "backtracking",
+      "total": 10,
+      "solved": 0,
+      "subtopics": [
+        "Backtracking"
+      ]
+    },
+    {
+      "topic": "Graphs",
+      "topicSlug": "graphs",
+      "total": 28,
+      "solved": 6,
+      "subtopics": [
+        "Topological Sort",
+        "Union-Find",
+        "Shortest Path",
+        "MST",
+        "Advanced (Bridges/Euler/SCC)"
+      ]
+    },
+    {
+      "topic": "Dynamic Programming",
+      "topicSlug": "dynamic-programming",
+      "total": 69,
+      "solved": 40,
+      "subtopics": [
+        "1-D / Sequence",
+        "Knapsack",
+        "Grid / Path",
+        "String (LCS/Edit)",
+        "Palindrome",
+        "Interval",
+        "LIS & Patience",
+        "Stock / State-machine",
+        "Bitmask",
+        "Digit",
+        "Tree DP"
+      ]
+    },
+    {
+      "topic": "Greedy",
+      "topicSlug": "greedy",
+      "total": 12,
+      "solved": 7,
+      "subtopics": [
+        "Greedy"
+      ]
+    },
+    {
+      "topic": "Math & Bit Manipulation",
+      "topicSlug": "math-bit-manipulation",
+      "total": 17,
+      "solved": 1,
+      "subtopics": [
+        "Math & Bit Manipulation"
+      ]
+    },
+    {
+      "topic": "Niche / Advanced",
+      "topicSlug": "niche-advanced",
+      "total": 39,
+      "solved": 7,
+      "subtopics": [
+        "Meet in the Middle",
+        "Segment Tree / BIT",
+        "Monotonic Deque",
+        "Line Sweep",
+        "String Matching (KMP/Z/RK)",
+        "Matrix Exponentiation"
+      ]
+    }
+  ],
+  "byDifficulty": {
+    "Medium": {
+      "solved": 26,
+      "total": 87
+    },
+    "Hard": {
+      "solved": 51,
+      "total": 167
+    },
+    "Very Hard": {
+      "solved": 1,
+      "total": 18
+    }
+  }
+}
